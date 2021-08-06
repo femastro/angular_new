@@ -1,0 +1,19 @@
+.container{
+  margin-top: 30px;
+  width: 100%;
+}
+.home-title{
+  text-align: center;
+  text-shadow: 2px 2px 6px lightskyblue,
+            3px 3px 4px lightgrey;
+  font-weight: bold;
+}
+.example-card {
+  float: left;
+  margin: 40px 2.5%;
+  max-width: 25%;
+}
+.example-header-image {
+  background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+  background-size: cover;
+}
