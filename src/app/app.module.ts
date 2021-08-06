@@ -16,9 +16,9 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations'
     ToolbarComponent
   ],
   imports: [
+    MaterialModule,
     BrowserModule,
     AppRoutingModule,
-    MaterialModule,
     BrowserAnimationsModule
   ],
   providers: [],
